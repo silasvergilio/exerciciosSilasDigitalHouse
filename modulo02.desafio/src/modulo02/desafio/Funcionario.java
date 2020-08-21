@@ -30,8 +30,7 @@ public class Funcionario {
 		this.setSalarioBase(salarioBase);
 		this.setSetor(setor);
 		this.setCargo(cargo);
-		this.setHierarquia(0);
-	
+		this.setHierarquia(0);	
 	}
 
 	
